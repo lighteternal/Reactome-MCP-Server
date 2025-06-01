@@ -1,0 +1,39 @@
+MIT License
+
+Copyright (c) 2025 Augmented Nature
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+Developed by Augmented Nature
+Website: https://augmentednature.ai
+Contact: info@augmentednature.ai
+
+This MCP server provides access to Reactome pathway data for biological research
+and systems biology analysis. The server connects to the public Reactome Content
+Service API and does not store or redistribute Reactome data.
+
+Reactome data is provided under the Creative Commons Attribution 4.0 International
+(CC BY 4.0) license. For more information about Reactome licensing, visit:
+https://reactome.org/license
+
+The Reactome project is led by Dr. Lincoln Stein of the Ontario Institute for
+Cancer Research, Dr. Henning Hermjakob of the European Bioinformatics Institute,
+and Dr. Peter D'Eustachio of NYU School of Medicine.
