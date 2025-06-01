@@ -1,10 +1,11 @@
-# Reactome MCP Server 🧬
+![Logo](logo.png)
+# Unofficial Reactome MCP Server 🧬
 
-**Production-Ready** Model Context Protocol server for accessing Reactome pathway and systems biology data.
+Model Context Protocol server for accessing Reactome pathway and systems biology data.
 
-[![API](https://img.shields.io/badge/Reactome-v79-blue)](https://reactome.org/) [![MCP](https://img.shields.io/badge/MCP-compatible-purple)](https://modelcontextprotocol.io/)
+[![API](https://img.shields.io/badge/Reactome-v79-blue)](https://reactome.org/)
 
-_Developed by [Augmented Nature](https://augmentednature.ai) - Advancing AI for Scientific Discovery_
+Developed by [Augmented Nature](https://augmentednature.ai) - Advancing AI for Scientific Discovery
 
 ## ✅ **Verified Features**
 
@@ -45,7 +46,7 @@ node build/index.js
 }
 ```
 
-### Cline/Other MCP Clients
+### Other MCP Clients
 
 ```bash
 node /path/to/reactome-server/build/index.js
@@ -260,30 +261,6 @@ Access Reactome data through standardized URIs:
 
 ## 🤝 **Contributing**
 
-This server is developed and maintained by [Augmented Nature](https://augmentednature.ai). For enhancements:
-
 1. Fork the repository
 2. Make your changes
 3. Submit a pull request
-
-## 📄 **License**
-
-MIT License - See [LICENSE](./LICENSE) for details.
-
-**Copyright (c) 2025 Augmented Nature - [augmentednature.ai](https://augmentednature.ai)**
-
-## 🆘 **Support**
-
-For issues with:
-
-- **MCP Server**: Check the server logs and error outputs
-- **Reactome API**: Visit [reactome.org](https://reactome.org/)
-- **Pathway Browser**: Use the [Reactome Pathway Browser](https://reactome.org/PathwayBrowser/)
-
-For enterprise support and custom integrations, contact [Augmented Nature](https://augmentednature.ai).
-
----
-
-**🎯 Ready for production pathway analysis and systems biology research!**
-
-_Developed by [Augmented Nature](https://augmentednature.ai) - Advancing AI for Scientific Discovery_
